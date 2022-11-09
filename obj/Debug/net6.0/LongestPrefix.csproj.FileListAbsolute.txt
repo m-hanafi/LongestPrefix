@@ -1,0 +1,15 @@
+D:\C#\LeetCode\LongestPrefix\bin\Debug\net6.0\LongestPrefix.exe
+D:\C#\LeetCode\LongestPrefix\bin\Debug\net6.0\LongestPrefix.deps.json
+D:\C#\LeetCode\LongestPrefix\bin\Debug\net6.0\LongestPrefix.runtimeconfig.json
+D:\C#\LeetCode\LongestPrefix\bin\Debug\net6.0\LongestPrefix.dll
+D:\C#\LeetCode\LongestPrefix\bin\Debug\net6.0\LongestPrefix.pdb
+D:\C#\LeetCode\LongestPrefix\obj\Debug\net6.0\LongestPrefix.csproj.AssemblyReference.cache
+D:\C#\LeetCode\LongestPrefix\obj\Debug\net6.0\LongestPrefix.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LeetCode\LongestPrefix\obj\Debug\net6.0\LongestPrefix.AssemblyInfoInputs.cache
+D:\C#\LeetCode\LongestPrefix\obj\Debug\net6.0\LongestPrefix.AssemblyInfo.cs
+D:\C#\LeetCode\LongestPrefix\obj\Debug\net6.0\LongestPrefix.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\LongestPrefix\obj\Debug\net6.0\LongestPrefix.dll
+D:\C#\LeetCode\LongestPrefix\obj\Debug\net6.0\refint\LongestPrefix.dll
+D:\C#\LeetCode\LongestPrefix\obj\Debug\net6.0\LongestPrefix.pdb
+D:\C#\LeetCode\LongestPrefix\obj\Debug\net6.0\LongestPrefix.genruntimeconfig.cache
+D:\C#\LeetCode\LongestPrefix\obj\Debug\net6.0\ref\LongestPrefix.dll
